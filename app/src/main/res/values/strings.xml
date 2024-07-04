@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MeditationApp</string>
+    <string name="hi">ПРИВЕТ</string>
+    <string name="unhi">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="entrybuttontext">Войти в аккаунт</string>
+    <string name="s">s</string>
+    <string name="registext">Не удалось зайти? Зарегестрируйтесь</string>
+    <string name="sing_in">Sing in</string>
+    <string name="email"> Email</string>
+    <string name="password"> Пароль</string>
+    <string name="register">Register</string>
+    <string name="profile">Профиль</string>
+</resources>
